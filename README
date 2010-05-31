@@ -1,0 +1,15 @@
+= Sow Seeds
+
+These are my personl Sow templates.
+The can be installed via:
+
+  $ sow --install git://trans.github.com/seeds
+
+Then any directory in the repository can be used as
+s scaffold.
+
+  $ sow seed myproj/
+
+You can setup up you own pack of seeds just as easily.
+See http://proutils.github.com/sow.
+
